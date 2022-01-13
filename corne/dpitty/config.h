@@ -45,4 +45,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
 // https://github.com/qmk/qmk_firmware/blob/master/docs/getting_started_make_guide.md#rulesmk-options
-#define FORCE_NKRO
+// define FORCE_NKRO
